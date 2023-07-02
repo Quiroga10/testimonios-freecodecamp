@@ -1,4 +1,4 @@
-const testimonios = [
+let testimonios = [
     {
         nombre: 'Shawn Wang',
         pais: 'Singapur',
